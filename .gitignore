@@ -1,0 +1,32 @@
+# Ignore Maven target directory
+target/
+
+# Ignore build output directories
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs and temp files
+*.log
+hs_err_pid*
+
+# OS-specific files
+.DS_S
+Thumbs.db
+
+# Ignore environment settings
+.env
+*.properties
