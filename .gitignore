@@ -30,3 +30,4 @@ Thumbs.db
 # Ignore environment settings
 .env
 *.properties
+test-output/
